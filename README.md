@@ -15,7 +15,7 @@ As variáveis utilizadas na análise são
  - Quantidade de Reviews;
  - Superhost.
 
-## Indagações
+## Foco da análise
 Além de uma visão geral dos dados, a análise focou nos feitos e comportamentos em torno do faturamento dos listings.
 
 ## Sobre a entrega
